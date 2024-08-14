@@ -1,0 +1,5 @@
+# Ignorar carpetas de migraciones en todas las apps de Django
+**/migrations/
+
+# Ignorar el archivo de base de datos SQLite
+db.sqlite3
